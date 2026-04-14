@@ -4,7 +4,7 @@
 
 Physicist turned AI safety researcher. I believe interpretability should inform model training, not just serve as post-hoc analysis.
 
-Currently shipping ML at [MercadoLibre](https://mercadolibre.com). Pursuing AI and alignment research. [MATS 9.0](https://www.matsprogram.org/) (Neel Nanda's exploration phase) alumnus. Building toward a future where we understand the systems we deploy.
+Currently shipping ML at [UP.LABS](https://uplabs.com/up-labs). Pursuing AI and alignment research. [MATS 9.0](https://www.matsprogram.org/) (Neel Nanda's exploration phase) alumnus. Building toward a future where we understand the systems we deploy.
 
 ---
 
@@ -17,8 +17,6 @@ Currently shipping ML at [MercadoLibre](https://mercadolibre.com). Pursuing AI a
 4. **[VozBridge](https://github.com/lmmontoya-ai)** - Real-time bidirectional translation for Google Meet. macOS Electron app, full TypeScript stack, ElevenLabs STT/TTS, OpenRouter.
 
 5. **[Taboo Language Models](https://lmmontoya-ai.github.io/posts/taboo-language-models-mats-application)** - MATS 9.0 application work probing how latent content and behavioral inhibition interact inside Taboo-fine-tuned Gemma models. TransformerLens + SAELens.
-
-6. **[lmmontoya-ai.github.io](https://lmmontoya-ai.github.io)** - Personal research portfolio. Built with Astro & Tailwind.
 
 ---
 
