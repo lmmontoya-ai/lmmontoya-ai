@@ -10,13 +10,15 @@ Currently shipping ML at [UP.LABS](https://uplabs.com/up-labs). Pursuing AI and 
 
 1. **[Evaluation Awareness](https://github.com/lmmontoya-ai)** - Co-authored research on how verbal and behavioral channels decouple when verbal awareness is suppressed in LLMs. On-policy resampling pipeline, vLLM distributed inference, model organisms via SDF + DPO. *(w/ Reilly Haskins, University of Canterbury)*
 
-2. **[GamesBench](https://github.com/lmmontoya-ai)** - Framework-agnostic benchmark for evaluating long-horizon planning in tool-calling LLMs using deterministic games (Towers of Hanoi, Sokoban).
+2. **[GamesBench](https://github.com/lmmontoya-ai/GamesBench)** - Framework-agnostic benchmark for evaluating long-horizon planning in tool-calling LLMs using deterministic games (Towers of Hanoi, Sokoban).
 
-3. **[Warm-starting TTT-E2E](https://github.com/lmmontoya-ai)** - Continual learning research under Dr. Madisetti @ Georgia Tech, comparing warm-start vs. scratch-trained TTT-E2E models at 125M and 760M scales.
+3. **[Warm-starting TTT-E2E](https://github.com/lmmontoya-ai/Warm-starting-TTT-E2E)** - Continual learning research under Dr. Madisetti @ Georgia Tech, comparing warm-start vs. scratch-trained TTT-E2E models at 125M and 760M scales.
 
-4. **[VozBridge](https://github.com/lmmontoya-ai)** - Real-time bidirectional translation for Google Meet. macOS Electron app, full TypeScript stack, ElevenLabs STT/TTS, OpenRouter.
+4. **[Towards Disentangling Latent Content and Behavioral Inhibition in Taboo Language Models](https://github.com/lmmontoya-ai/Disentangling-Latent-Content-and-Behavioral-Inhibition-in-LLMs)** - MATS 9.0 application work probing how latent content and behavioral inhibition interact inside Taboo-fine-tuned Gemma models. TransformerLens + SAELens.
 
-5. **[Taboo Language Models](https://lmmontoya-ai.github.io/posts/taboo-language-models-mats-application)** - MATS 9.0 application work probing how latent content and behavioral inhibition interact inside Taboo-fine-tuned Gemma models. TransformerLens + SAELens.
+5. **[VozBridge](https://github.com/lmmontoya-ai/VozBridge)** - Real-time bidirectional translation for Google Meet. macOS Electron app, full TypeScript stack, ElevenLabs STT/TTS, OpenRouter.
+
+6. **[Orchard](https://github.com/lmmontoya-ai/Orchard)** - Open-source APFS access project for Windows.
 
 ---
 
