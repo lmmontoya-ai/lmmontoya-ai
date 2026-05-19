@@ -4,7 +4,7 @@
 
 Physicist turned AI safety researcher. I believe interpretability should inform model training, not just serve as post-hoc analysis.
 
-Currently shipping ML at [UP.LABS](https://uplabs.com/up-labs). Pursuing AI and alignment research. [MATS 9.0](https://www.matsprogram.org/) (Neel Nanda's exploration phase) alumnus. Building toward a future where we understand the systems we deploy.
+Currently shipping ML at [UP.LABS](https://uplabs.com/up-labs). Pursuing AI and alignment research. [MATS 9.0](https://www.matsprogram.org/), Neel Nanda's exploration phase participant. Building toward a future where we understand the systems we deploy.
 
 ---
 
