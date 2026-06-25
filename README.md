@@ -1,4 +1,4 @@
-# Luis Miguel Montoya
+# Luis M. Montoya
 
 ### Understand to Align | Georgia Tech / Universidad EIA
 
