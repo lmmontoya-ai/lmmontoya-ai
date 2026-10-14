@@ -16,7 +16,7 @@ Previously MATS 9.0 exploration phase in Neel Nanda's mechanistic interpretabili
 
 2. **[When Can Language Models Predict Each Other?](https://luismmontoya.dev/r/self-other-prediction-sep26/)** - Sole fellow, Pivotal Research Fellowship (mentors: Damiano Fornasiere and Gaël Gendron, LawZero). Across three interactive settings, a simple situation-plus-action-count baseline matched or beat model action forecasters, including in new-situation transfer tests. Selected for the extension program. Environments: [Commons (Office)](https://github.com/lmmontoya-ai/commons), [LEDGER (Contracting)](https://github.com/lmmontoya-ai/ledger), and [FORGE (Engineering)](https://github.com/lmmontoya-ai/forge).
 
-3. **[Peer-Reporting Benchmark](https://github.com/lmmontoya-ai/peer-reporting-benchmark)** - Current work. Does an observer agent privately report a peer's evidence-supported approval breach? Data collection is complete, with 216 assignments in the main study and a separate extension scaling to 100 scripted peers.
+3. **[Peer-Reporting Benchmark](https://github.com/lmmontoya-ai/peer-reporting-benchmark)** - Current work. Does an observer agent privately report a peer's breach, backed by evidence?.
 
 4. **[GLM-5.3-Flash User Conditioning](https://github.com/lmmontoya-ai/glm53-user-conditioning)** - Sole author. A preregistered confirmatory replication (34,400 rows) of Transluce's user-awareness task, finding that models state slightly lower confidence to famous AI figures than generic fame predicts.
 
